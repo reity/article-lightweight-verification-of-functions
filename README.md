@@ -1,2 +1,2 @@
-# article-lightweight-verification-of-functions
-This article proposes and evaluates a technique for specifying lightweight unit tests that verify an implementation of a function, with a particular focus on verifying functions (such as cryptographic primitives) that operate on binary data. This technique sacrifices completeness in favor of concision, rapid implementation, and portability.
+# article-specifications-for-distinguishing-functions
+This article defines and demonstrates a technique for assembling concise, lightweight specifications and unit tests for verifying the identity of a function (in order to distinguish it from other potentially similar functions), with a particular focus on functions that operate on binary data (such as cryptographic primitives). This technique sacrifices completeness in order to enable highly compact and portable representations of function specifications.

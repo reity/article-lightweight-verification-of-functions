@@ -1,0 +1,5 @@
+jupyterlab
+bitlist
+fountains
+matplotlib
+tqdm
